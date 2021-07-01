@@ -14,7 +14,6 @@ This is where Romain can find all the informations for his internship with Emman
 
 About the data, Jean-Marc info :
 
-```
 Les données OBS du run ORCA025.L75-OCCITENS  (run d'ensemble OCCIPUT) sont sous forme de fichiers tar (gz) dans
 
 /mnt/meom/MODEL_SET/ORCA025.L75/ORCA025.L75-OCCITENS/OBS
@@ -77,4 +76,3 @@ Remarque : ces fichiers representent  la base de donnees ENACT-ENSEMBLE (et pas 
 
 
 
-```

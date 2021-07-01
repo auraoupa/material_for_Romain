@@ -3,4 +3,4 @@
     - `conda create --name argo`
     - `conda activate argo`
     - `conda install -c conda-forge netcdf4 xarray dask numpy seawater cartopy cmocean papermill jupyter ipykernel seaborn`
-
+    - `python -m ipykernel install --user --name argo --display-name argo` (to make the libraries available in the jupyter notebooks, see below for deployment)
